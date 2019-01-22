@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ESP8266 WiFi Access Point to control LEDs</title>
+<link rel="stylesheet" media="screen" href="styles.css" type="text/css"/>
+<script src="code.js"></script>
+</head>
+<body>
+    <h1> Control LED</h1>
+    <form action="/blue_LED" method="get" target="hiddenFrame">
+        <input value="Blue LED" type="submit" class="punch">
+    </form>
+    <form action="/red_LED" method="get" target="hiddenFrame">
+        <input value="Red LED" type="submit" class="punch">
+    </form>
+    <iframe name="hiddenFrame" class="notif"></iframe>
+</body>
+</html>
