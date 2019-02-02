@@ -8,6 +8,6 @@ Tiny WiFi Server based on ESP8266 microcontoller to control both LED (red and bl
 * `Step 1.3`: Create your code.js file... It's not manadatory!
 
 ## 2 - Arduino Chapter
-* `Step 2.1`: In Arduino Open and Copy following example ESP8266WiFi > WiFiAccessPoint
+* `Step 2.1`: In Arduino IDE, Open and Copy following example ESP8266WiFi > WiFiAccessPoint
 * `Step 2.2`: Add your expected HTML page source
 * `Step 2.3`: Upload your Arduino code... **It's too long to flash ESP8266!**
