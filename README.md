@@ -3,7 +3,7 @@ Tiny WiFi Server based on ESP8266 microcontoller to control both LED (red and bl
 
 
 ## 1 - HTML Chapter
-Step 1.1: Create your index.html file... See [Hackable #24] (https://github.com/Hackable-magazine/Hackable24/tree/master/esp_NOsi4021web2)
+Step 1.1: Create your index.html file... See [Hackable 24] (https://github.com/Hackable-magazine/Hackable24/tree/master/esp_NOsi4021web2)
 
 Step 1.2: Create your styles.css file
 
